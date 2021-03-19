@@ -1,0 +1,9 @@
+﻿  DemoNew.cpp
+c:\qt\qt_lesson\c++practice\src\classwithpointerdemo\mystring.h(18): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 請參閱 'strcpy' 的宣告
+c:\qt\qt_lesson\c++practice\src\classwithpointerdemo\mystring.h(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 請參閱 'strcpy' 的宣告
+c:\qt\qt_lesson\c++practice\src\classwithpointerdemo\mystring.h(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 請參閱 'strcpy' 的宣告
+  classwithPointerDemo.vcxproj -> C:\Qt\Qt_Lesson\c++practice\src\classwithPointerDemo\Debug\classwithPointerDemo.exe
+  classwithPointerDemo.vcxproj -> C:\Qt\Qt_Lesson\c++practice\src\classwithPointerDemo\Debug\classwithPointerDemo.pdb (Full PDB)
